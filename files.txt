@@ -1,0 +1,11 @@
+resources/file001.txt
+resources/file002.txt
+resources/file003.txt
+resources/file004.txt
+resources/file005.txt
+resources/file006.txt
+resources/file007.txt
+resources/file008.txt
+resources/r123/file002.txt
+resources/r123/file005.txt
+resources/r123/file008.txt
